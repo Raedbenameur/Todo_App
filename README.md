@@ -16,8 +16,8 @@
     npx expo start
    ```
 you need to add categories before you can add some tasks !
+<img src="![Screenshot_1728765627](https://github.com/user-attachments/assets/935c7cb9-be46-42fa-aeb8-034c1789e2df)" alt="Description of image" width="400"/>
 
-![Screenshot_1728765627](https://github.com/user-attachments/assets/935c7cb9-be46-42fa-aeb8-034c1789e2df {width=40px height=400px})
 ![Screenshot_1728765621](https://github.com/user-attachments/assets/33f79e7f-aa05-4410-946b-a1783e8fbf82)
 ![Screenshot_1728765609](https://github.com/user-attachments/assets/1de7f238-66a6-441f-95b6-7fcf0b0487b1)
 ![Screenshot_1728765593](https://github.com/user-attachments/assets/09daa3f9-93b5-43f4-89d4-5a6e4b789955)
