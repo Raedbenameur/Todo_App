@@ -1,21 +1,28 @@
 # 📝Todo App
 <br/>
-## ⚡Features
+
+# ⚡Features
 <ul>
-   <il>
+   <li>
       Create, read, update, and delete tasks
-   </il>
+   </li>
+   <li>
+      Filter tasks by category and due date
+   </li>
+   <li>
+      Store tasks and categories using AsyncStorage
+   </li>
+   <li>
+      Responsive design for both iOS and Android devices
+   </li>
 </ul>
 
-Filter tasks by category and due date
-Store tasks and categories using AsyncStorage
-Responsive design for both iOS and Android devices
-Technologies Used
-React Native: A framework for building native applications using React.
-React Navigation: For navigating between screens.
-AsyncStorage: For storing data persistently on the device.
-DateTimePicker: For selecting due dates.
-React Native Picker Select: For category selection.
+## Technologies Used
+- **React Native**: A framework for building native applications using React.
+- **React Navigation**: For navigating between screens.
+- **AsyncStorage**: For storing data persistently on the device.
+- **DateTimePicker**: For selecting due dates.
+- **React Native Picker Select**: For category selection.
 
 
 ## Get started
