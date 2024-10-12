@@ -19,7 +19,7 @@ you need to add categories before you can add some tasks !
 
 
 
-<img src="https://github.com/user-attachments/assets/935c7cb9-be46-42fa-aeb8-034c1789e2df" alt="Description of image" width="200" height="100%"/>
+
 <img src="https://github.com/user-attachments/assets/935c7cb9-be46-42fa-aeb8-034c1789e2df" alt="Description of image" width="200" height="100%"/>
 <img src="https://github.com/user-attachments/assets/33f79e7f-aa05-4410-946b-a1783e8fbf82" alt="Screenshot_1728765621" width="200" height="100%"/>
 <img src="https://github.com/user-attachments/assets/1de7f238-66a6-441f-95b6-7fcf0b0487b1" alt="Screenshot_1728765609" width="200" height="100%"/>
