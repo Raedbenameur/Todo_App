@@ -1,4 +1,4 @@
-# Todo APP
+# Todo App
 
 
 ## Get started
@@ -14,4 +14,4 @@
    ```bash
     npx expo start
    ```
-
+you need to add categories before you can add some tasks !
