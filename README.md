@@ -38,8 +38,9 @@
    ```bash
     npx expo start
    ```
-<br/>
+
 ## important 
+<br/>
 - **you need to add categories before you can add some tasks !
 
 ## 📷screenshots
