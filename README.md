@@ -12,9 +12,7 @@
    <li>
       Store tasks and categories using AsyncStorage
    </li>
-   <li>
-      Responsive design for both iOS and Android devices
-   </li>
+ 
 </ul>
 
 ## Technologies Used
