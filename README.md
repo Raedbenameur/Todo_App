@@ -23,15 +23,21 @@
 - **React Native Picker Select**: For category selection.
 
 
-## Get started
+## 🚀 Get Started
 
-1. Install dependencies
+To install and run the project locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/Raedbenameur/Todo_App.git
+   
+2. Install dependencies
 
    ```bash
    npm install
    ```
 
-2. Start the app
+3. Start the app
 
    ```bash
     npx expo start
