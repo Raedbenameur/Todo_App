@@ -1,4 +1,4 @@
-# Welcome to your Expo app 
+# Todo APP
 
 
 ## Get started
